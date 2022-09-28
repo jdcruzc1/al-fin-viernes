@@ -30,3 +30,15 @@ s1.onmouseout = ()=>{
    audio2.volume = 0;
 
 }
+
+let s2 = document.getElementById("imagene1b");
+s2.onmouseover = ()=>{
+  audio.volume = 0;
+  audio2.volume = 1;
+
+}
+s2.onmouseout = ()=>{
+  audio.volume = 0;
+  audio2.volume = 0;
+  
+}
