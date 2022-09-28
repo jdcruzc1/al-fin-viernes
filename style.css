@@ -22,6 +22,11 @@ body {
  
 }
 
+.galery01 {
+  display: flex;
+  justify-content: center;
+}
+
 p{
   text-align: center;
   font-size: 50px;
@@ -71,4 +76,16 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
   padding: 350px;
   font-size: 60px;
   color: #C6F000; 
+}
+
+/* imagenes */
+
+#imagene1a {
+  width: 50%;
+  justify-content: center;
+  display: block;
+  margin: 0 auto;
+  padding: 30px;
+  text-align:center;
+  
 }
