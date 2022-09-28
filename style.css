@@ -82,13 +82,12 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 /* imagenes */
 
 #imagene1a {
-  width: 50%;
+  width: 80%;
   justify-content: center;
   display: block;
   margin: 0 auto;
   padding: 30px;
   text-align:center;
-  
 }
 
 /* Alerta */
