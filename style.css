@@ -106,19 +106,30 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 
 
+
+
+
+
+
 #imagene14a{
-   height:20%;
- width: 20%;
+  position: fixed;
+  top: 40%;
+  left: 35%;
+  height: 60%;
+  width: 35%;
   justify-content: center;
   display: block;
   margin: 0 auto;
-  padding: 40px;
+  padding: 0px;
   text-align:center;
 }
 
 #imagene14b{
-  height:30%;
- width: 30%;
+  position: fixed;
+  top: 20%;
+  left: 20%;
+  height: 60%;
+  width: 35%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -127,8 +138,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 }
 
 #imagene15a{
-   height:20%;
- width: 20%;
+  height:20%;
+  width: 20%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -138,7 +149,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 #imagene15b{
   height:30%;
- width: 30%;
+  width: 30%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -148,7 +159,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 #imagene15c{
   height:30%;
- width: 30%;
+  width: 30%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -157,8 +168,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 }
 
 #imagene16a{
-   height:20%;
- width: 20%;
+  height:20%;
+  width: 20%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -168,7 +179,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 #imagene16b{
   height:30%;
- width: 30%;
+  width: 30%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -178,7 +189,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 #imagene16c{
   height:30%;
- width: 30%;
+  width: 30%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -186,8 +197,8 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
   text-align:center;
 }
 #imagene17a{
-   height:20%;
- width: 20%;
+  height:20%;
+  width: 20%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -197,7 +208,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 #imagene17b{
   height:30%;
- width: 30%;
+  width: 30%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -206,7 +217,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 }
 #imagene18a{
    height:20%;
- width: 20%;
+  width: 20%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -216,7 +227,7 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 #imagene18b{
   height:30%;
- width: 30%;
+  width: 30%;
   justify-content: center;
   display: block;
   margin: 0 auto;
