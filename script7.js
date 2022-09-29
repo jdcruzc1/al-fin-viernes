@@ -7,12 +7,12 @@ div.onclick = function(){
 }
 
 let audioe7a = new Audio();
-audioe7a.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Perr%C3%ADsima_E2.mp3?v=1664425055310";
+audioe7a.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/e7_Celular.mp3?v=1664493814111";
 audioe7a.loop="true";
 audioe7a.volume = 0;
 
 let audioe7b = new Audio();
-audioe7b.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Casual_E2.mp3?v=1664425250791";
+audioe7b.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/e7_NoSignal.mp3?v=1664493832656";
 audioe7b.loop="true";
 audioe7b.volume = 0;
 

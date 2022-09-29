@@ -7,7 +7,7 @@ div.onclick = function(){
 }
 
 let audioe8a = new Audio();
-audioe8a.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Perr%C3%ADsima_E2.mp3?v=1664425055310";
+audioe8a.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/e8_Covid.mp3?v=1664493912091";
 audioe8a.loop="true";
 audioe8a.volume = 0;
 
