@@ -1,4 +1,4 @@
-const div = document.getElementById("div3");
+const div = document.getElementById("div4");
 div.onclick = function(){
   div.style.display = "none";
   audioe4a.play();
@@ -11,10 +11,10 @@ audioe4a.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Per
 audioe4a.loop="true";
 audioe4a.volume = 0;
 
-let audioe3b = new Audio();
+let audioe4b = new Audio();
 audioe4b.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Casual_E2.mp3?v=1664425250791";
-audioe3b.loop="true";
-audioe3b.volume = 0;
+audioe4b.loop="true";
+audioe4b.volume = 0;
 
 
 
@@ -22,25 +22,25 @@ audioe3b.volume = 0;
 
 let divG = document.getElementById("divG");
 
-let s1 = document.getElementById("imagene3a");
+let s1 = document.getElementById("imagene4a");
 s1.onmouseover = ()=>{
-  audioe3a.volume = 1;
-   audioe3b.volume = 0;
+  audioe4a.volume = 1;
+   audioe4b.volume = 0;
 
 }
 s1.onmouseout = ()=>{
-  audioe3a.volume = 0;
-   audioe3b.volume = 0;
+  audioe4a.volume = 0;
+   audioe4b.volume = 0;
 }
   
-let s2 = document.getElementById("imagene3b");
+let s2 = document.getElementById("imagene4b");
 s2.onmouseover = ()=>{
-  audioe3a.volume = 0;
-  audioe3b.volume = 1;
+  audioe4a.volume = 0;
+  audioe4b.volume = 1;
 
 }
 s2.onmouseout = ()=>{
-  audioe3a.volume = 0;
-  audioe3b.volume = 0;
+  audioe4a.volume = 0;
+  audioe4b.volume = 0;
   
 } 
