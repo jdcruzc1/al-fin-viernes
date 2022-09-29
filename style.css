@@ -108,15 +108,25 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
 
 
 
-
-
+#imagene14b{
+  position: fixed;
+  top: 65%;
+  left: 25%;
+  height: 40%;
+  width: 25%;
+  justify-content: center;
+  display: block;
+  margin: 0 auto;
+  padding: 0px;
+  text-align:center;
+}
 
 #imagene14a{
   position: fixed;
   top: 40%;
   left: 35%;
   height: 60%;
-  width: 35%;
+  width: 38%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -124,18 +134,6 @@ box-shadow: 0px 4px 4px rgba(0, 0, 0, 0);
   text-align:center;
 }
 
-#imagene14b{
-  position: fixed;
-  top: 20%;
-  left: 20%;
-  height: 60%;
-  width: 35%;
-  justify-content: center;
-  display: block;
-  margin: 0 auto;
-  padding: 0px;
-  text-align:center;
-}
 
 #imagene15a{
   height:20%;
