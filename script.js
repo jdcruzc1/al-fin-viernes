@@ -4,7 +4,7 @@ div.onclick = function(){
   audioe1a.play();
   audioe1b.play();
   audioe16a.play();
-  audioe16b.play();
+  audioe16c.play();
  
 }
 
@@ -23,10 +23,10 @@ audioe16a.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Ne
 audioe16a.loop="true";
 audioe16a.volume = 0;
 
-let audioe16b = new Audio();
-audioe16b.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Arrocito_EX.mp3?v=1664419803815";
-audioe16b.loop="true";
-audioe16b.volume = 0;
+let audioe16c = new Audio();
+audioe16c.src="https://cdn.glitch.global/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/Arrocito_EX.mp3?v=1664419803815";
+audioe16c.loop="true";
+audioe16c.volume = 0;
 
 
 let divG = document.getElementById("divG");
@@ -45,11 +45,11 @@ let s1 = document.getElementById("imagene16a");
 }
 s1.onmouseout = ()=>{
   audioe16a.volume = 1;
-   audioe16b.volume = 0;
+   audioe16c.volume = 0;
 }
 s1.onmouseout = ()=>{
   audioe16a.volume = 0;
-   audioe16b.volume = 0;
+   audioe16c.volume = 0;
 }
 
 let s2 = document.getElementById("imagene1b");
@@ -64,15 +64,15 @@ s2.onmouseout = ()=>{
   
 }
 
-let s2 = document.getElementById("imagene16b");
+let s2 = document.getElementById("imagene16c");
 s2.onmouseout = ()=>{
   audioe16a.volume = 0;
-  audioe16b.volume = 1;
+  audioe16c.volume = 1;
   
 }
 s2.onmouseout = ()=>{
   audioe16a.volume = 0;
-  audioe16b.volume = 0;
+  audioe16c.volume = 0;
   
 }
 
