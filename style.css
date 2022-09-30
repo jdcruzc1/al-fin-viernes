@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300&display=swap');
 
 /* generales */
 
@@ -58,7 +57,6 @@ a {
 }
 
 h1{
-  font-family: 'Noto Sans', sans-serif;
   text-align: center;
   padding: 40px;
   font-size: 60px;
