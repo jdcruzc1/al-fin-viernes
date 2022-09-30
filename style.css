@@ -95,7 +95,7 @@ img{
 #instrucciones{
 text-align: center;
 font-size: 40px;
-font-family: 'Titan One', cursive;
+font-family: 'Poppins', sans-serif;
 color: #000000;
   
 }
@@ -132,8 +132,8 @@ color: #000000;
 }
 
 #imagene2b {
-  height:30%;
-  width: 30%;
+  height:20%;
+  width: 20%;
   justify-content: center;
   display: block;
   margin: 0 auto;
@@ -142,18 +142,19 @@ color: #000000;
 }
 
 #imagene3a {
-  height:20%;
-  width: 20%;
+  height:15%;
+  width: 15%;
   justify-content: center;
   display: block;
   margin: 0 auto;
-  padding: 40px;
+  padding: 80px;
   text-align:center;
 }
 
 #imagene3b {
-  height:20%;
-  width: 20%;
+  top:100px;
+  height:15%;
+  width: 15%;
   justify-content: center;
   display: block;
   margin: 0 auto;
