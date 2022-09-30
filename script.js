@@ -46,17 +46,17 @@ s2.onmouseout = ()=>{
 } 
 
 var audio5 = new Audio("https://cdn.glitch.me/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/instrumental_casa.wav?v=1664503205001");
-   var audio6 = new Audio("https://cdn.glitch.global/1cbabc9a-288c-4e9f-9427-44ae767f320e/y2mate.com%20-%20DUKI%20%20ROCKSTAR%20INSTRUMENTALBEAT.mp3?v=1654050391344");
+   var audio6 = new Audio("https://cdn.glitch.me/aa4b3a19-f706-4e4c-89d2-388c2f7a3411/instrumental_fiesta.wav?v=1664503715869");
   
   
   window.onkeyup = function(e){
     if(e.key == "1"){
   audio5.play();
-       audio5.volume = 0.5;
+       audio5.volume = 1;
   }
      if(e.key == "2"){
   audio6.play();
-        audio6.volume = 0.5;
+        audio6.volume = 1;
     }
   
 
@@ -71,12 +71,12 @@ var audio5 = new Audio("https://cdn.glitch.me/aa4b3a19-f706-4e4c-89d2-388c2f7a34
     }
     
  if(e.key == "a"){
-  audio5.volume = 0.1;
+  audio5.volume = 1;
    
   }
 
      if(e.key == "s"){
-  audio6.volume = 0.1;
+  audio6.volume = 1;
        
   }
 
